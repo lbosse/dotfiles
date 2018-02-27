@@ -37,8 +37,8 @@ filetype plugin indent on    " required
 set updatetime=250
 
 " INDENTATION
-set tabstop=4
-set shiftwidth=4
+set tabstop=2
+set shiftwidth=2
 set expandtab
 autocmd FileType python set tabstop=8|set shiftwidth=4|set expandtab|set softtabstop=4
 
